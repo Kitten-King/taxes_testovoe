@@ -1,3 +1,3 @@
-module github.com/Kitten-King/tax_sdk
+module tax_service
 
 go 1.26
